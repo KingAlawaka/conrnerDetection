@@ -1,0 +1,6 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+g:\msc research\opencv projects\edgemap\edgemap\main.cpp(15): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  Generating Code...
